@@ -1,0 +1,62 @@
+.otsikko{
+    color: royalblue; font-weight: bold; background-color: maroon; 
+    border-width: 5px;
+    border-color: olive;
+    border-style: inset ;
+}
+.linkit{
+    font-size: x-large; background-color: springgreen;
+    border-width: 5px;
+    border-color: yellow;
+    border-style: inset ;
+}
+.desci{
+    font-size: large; font-weight: 600; color: yellow; background-color: maroon;
+    border-width: 5px;
+    border-color: olive;
+    border-style: inset ;
+    margin: 5px auto 0px auto;
+}
+a:visited{
+    color: red;
+}
+a:active{
+    color: blue; font-style: italic;
+}
+#kitarat1{
+    font-size: larger;
+}
+.bg{
+    background-image:url(materials/mainpagebackground.jpg) ;
+    background-size: cover;
+}
+.bg2{
+    background-image: url(materials/guitar_music_background-1920x1200.jpg);
+    background-size: auto;
+    background-repeat: repeat;
+}
+.bg21{
+    background-image: url(materials/guitar_music_background-1920x1200.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+#anaacu{
+    padding: 20px;
+    margin-left: 50px;
+    
+}
+#anaele{
+    padding: 20px;
+    margin-left: 50px;
+}
+#chordspic1{
+    display: block; margin: 5px auto 0px auto;
+    
+}
+.guitarspics{ display: block; margin: 5px auto 0px auto;
+
+}
+
+.lessonit{
+    margin-left: 700px;
+}
